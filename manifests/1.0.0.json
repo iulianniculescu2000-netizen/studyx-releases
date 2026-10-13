@@ -9,9 +9,9 @@
   ],
   "files": [],
   "installer": {
-    "fileName": "StudyX-Setup-2.3.2.exe",
-    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.0.0/StudyX-Setup-2.3.2.exe",
-    "sha256": "34e813d75437a5584a36e6acc1021c449ae9d5abc4b1e222b4ffaa804b220a38",
-    "size": 197421772
+    "fileName": "StudyX-Setup-1.0.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.0.0/StudyX-Setup-1.0.0.exe",
+    "sha256": "a2dab3b01b9250f125244ca06b8f9c2c2c5efaf72de3065cefa3aef5d6b80c5c",
+    "size": 340284362
   }
 }
