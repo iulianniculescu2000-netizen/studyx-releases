@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-10-13",
+  "changes": [
+    "Prima versiune StudyX 1.0",
+    "Cărțile de Rezidențiat (Kumar, Lawrence, Sinopsis) incluse în aplicație",
+    "Pornire mai rapidă și interfață adaptată laptopurilor"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-2.3.2.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.0.0/StudyX-Setup-2.3.2.exe",
+    "sha256": "34e813d75437a5584a36e6acc1021c449ae9d5abc4b1e222b4ffaa804b220a38",
+    "size": 197421772
+  }
+}
