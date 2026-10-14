@@ -1,17 +1,21 @@
 {
   "version": "1.0.0",
   "latestVersion": "1.0.0",
-  "releaseDate": "2026-10-13",
+  "releaseDate": "2026-10-14",
   "changes": [
-    "Prima versiune StudyX 1.0",
-    "Cărțile de Rezidențiat (Kumar, Lawrence, Sinopsis) incluse în aplicație",
-    "Pornire mai rapidă și interfață adaptată laptopurilor"
+    "Cărțile de bază (Kumar, Lawrence, Sinopsis) se pregătesc singure și au prioritate în chat și grile",
+    "„Vezi în carte” găsește pasajul și fără AI",
+    "Cele 69 de pagini Lawrence lipsă din PDF intră în căutare",
+    "Card „Stare furnizori AI” cu modele retrase și comutare automată",
+    "Modul Focus se oprește la ieșirea din grilă; explicațiile și debrief-ul merg direct în chat",
+    "Prompturi AI mai coerente, fără surse inventate",
+    "Aspect complet și în fereastra desktop"
   ],
   "files": [],
   "installer": {
     "fileName": "StudyX-Setup-1.0.0.exe",
     "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.0.0/StudyX-Setup-1.0.0.exe",
-    "sha256": "a2dab3b01b9250f125244ca06b8f9c2c2c5efaf72de3065cefa3aef5d6b80c5c",
-    "size": 340284362
+    "sha256": "0cb1eb22470db566d6cae7fdf9429d3f3b29237abee88a374dd0e8aff2a306bb",
+    "size": 339256316
   }
 }
