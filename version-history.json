@@ -3,8 +3,8 @@
     {
       "version": "1.0.0",
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.0.0.json",
-      "releaseDate": "2026-10-13",
-      "description": "Prima versiune StudyX 1.0 · Cărțile de Rezidențiat (Kumar, Lawrence, Sinopsis) incluse în aplicație · Pornire mai rapidă și interfață adaptată laptopurilor"
+      "releaseDate": "2026-10-14",
+      "description": "Cărțile de bază (Kumar, Lawrence, Sinopsis) se pregătesc singure și au prioritate în chat și grile · „Vezi în carte” găsește pasajul și fără AI · Cele 69 de pagini Lawrence lipsă din PDF intră în căutare · Card „Stare furnizori AI” cu modele retrase și comutare automată · Modul Focus se oprește la ieșirea din grilă; explicațiile și debrief-ul merg direct în chat · Prompturi AI mai coerente, fără surse inventate · Aspect complet și în fereastra desktop"
     }
   ]
 }
