@@ -5,6 +5,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.0.0.json",
       "releaseDate": "2026-10-14",
       "description": "Cărțile de bază (Kumar, Lawrence, Sinopsis) se pregătesc singure și au prioritate în chat și grile · „Vezi în carte” găsește pasajul și fără AI · Cele 69 de pagini Lawrence lipsă din PDF intră în căutare · Card „Stare furnizori AI” cu modele retrase și comutare automată · Modul Focus se oprește la ieșirea din grilă; explicațiile și debrief-ul merg direct în chat · Prompturi AI mai coerente, fără surse inventate · Aspect complet și în fereastra desktop"
+    },
+    {
+      "version": "1.1.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.1.0.json",
+      "releaseDate": "2026-10-20",
+      "description": "Cărțile de bază (Kumar, Lawrence, Sinopsis) vin pregătite și au prioritate la căutare · Vezi în carte: de la grilă la pasajul din carte care susține răspunsul · Pentru tine: ce să exersezi azi, din greșelile tale · Chatul AI răspunde din cărți, cu sursa (Carte sau Material) la vedere · Organizare: restanțele rămân la vedere, grafice lizibile pe orice ecran, avertisment pentru data examenului · Ce nu știu? pornește de la subiectele slabe · Stare furnizori AI și comutare automată; nou: Gemini 4 Argon"
     }
   ]
 }
