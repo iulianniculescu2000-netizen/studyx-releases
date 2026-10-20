@@ -1,0 +1,21 @@
+{
+  "version": "1.1.0",
+  "latestVersion": "1.1.0",
+  "releaseDate": "2026-10-20",
+  "changes": [
+    "Cărțile de bază (Kumar, Lawrence, Sinopsis) vin pregătite și au prioritate la căutare",
+    "Vezi în carte: de la grilă la pasajul din carte care susține răspunsul",
+    "Pentru tine: ce să exersezi azi, din greșelile tale",
+    "Chatul AI răspunde din cărți, cu sursa (Carte sau Material) la vedere",
+    "Organizare: restanțele rămân la vedere, grafice lizibile pe orice ecran, avertisment pentru data examenului",
+    "Ce nu știu? pornește de la subiectele slabe",
+    "Stare furnizori AI și comutare automată; nou: Gemini 4 Argon"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.1.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.1.0/StudyX-Setup-1.1.0.exe",
+    "sha256": "7b7ed66abc288e4b4e5c32349a5162ac1417f8b275d116c16c93c6adf956b1d5",
+    "size": 339272086
+  }
+}
