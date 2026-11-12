@@ -11,6 +11,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.1.0.json",
       "releaseDate": "2026-10-20",
       "description": "Cărțile de bază (Kumar, Lawrence, Sinopsis) vin pregătite și au prioritate la căutare · Vezi în carte: de la grilă la pasajul din carte care susține răspunsul · Pentru tine: ce să exersezi azi, din greșelile tale · Chatul AI răspunde din cărți, cu sursa (Carte sau Material) la vedere · Organizare: restanțele rămân la vedere, grafice lizibile pe orice ecran, avertisment pentru data examenului · Ce nu știu? pornește de la subiectele slabe · Stare furnizori AI și comutare automată; nou: Gemini 4 Argon"
+    },
+    {
+      "version": "1.2.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.2.0.json",
+      "releaseDate": "2026-11-12",
+      "description": "Azi de revăzut: o singură coadă cu carduri, grile și greșeli, plus „Începe, 15 min” · Simulare de examen: număr configurabil, amestec CS/CM și raport la final cu estimare orientativă · Tutor socratic în Caietul de erori, cu tipul erorii în Statistici · Schemă și carduri din carte, cu citare la pagină, acceptate una câte una · Organizare: la fiecare temă vezi câte grile au picat în 2021–2025"
     }
   ]
 }
