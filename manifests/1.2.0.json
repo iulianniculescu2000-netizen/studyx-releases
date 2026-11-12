@@ -1,0 +1,19 @@
+{
+  "version": "1.2.0",
+  "latestVersion": "1.2.0",
+  "releaseDate": "2026-11-12",
+  "changes": [
+    "Azi de revăzut: o singură coadă cu carduri, grile și greșeli, plus „Începe, 15 min”",
+    "Simulare de examen: număr configurabil, amestec CS/CM și raport la final cu estimare orientativă",
+    "Tutor socratic în Caietul de erori, cu tipul erorii în Statistici",
+    "Schemă și carduri din carte, cu citare la pagină, acceptate una câte una",
+    "Organizare: la fiecare temă vezi câte grile au picat în 2021–2025"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.2.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.2.0/StudyX-Setup-1.2.0.exe",
+    "sha256": "0d353bbc0840975b482e455e6987af408c765afc2ff86084e85a0fe273412c03",
+    "size": 339306686
+  }
+}
