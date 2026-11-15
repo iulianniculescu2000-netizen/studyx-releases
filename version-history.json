@@ -17,6 +17,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.2.0.json",
       "releaseDate": "2026-11-12",
       "description": "Azi de revăzut: o singură coadă cu carduri, grile și greșeli, plus „Începe, 15 min” · Simulare de examen: număr configurabil, amestec CS/CM și raport la final cu estimare orientativă · Tutor socratic în Caietul de erori, cu tipul erorii în Statistici · Schemă și carduri din carte, cu citare la pagină, acceptate una câte una · Organizare: la fiecare temă vezi câte grile au picat în 2021–2025"
+    },
+    {
+      "version": "1.3.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.3.0.json",
+      "releaseDate": "2026-11-15",
+      "description": "GitHub Copilot ca AI principal: te conectezi din Setări AI cu un cod, fără terminal, alegi contul și vezi cota; când Copilot lipsește sau cota se termină, cheile API preiau tot · Explicațiile la grile citează cartea și pagina, deschid pasajul și rămân salvate pe grilă · Verificare pe al doilea model, cu semnalarea cifrelor care nu apar în pasajul citat · Căutare în cărți după vorbe de zi cu zi · Rezidențiat: plan pe grilă, verificator orb, simulare cu ponderi pe specialități, text din figuri și casete în cărți · Finisaje în chat și în Setări AI, plus protecție mai bună a legăturii dintre aplicație și fereastră"
     }
   ]
 }
