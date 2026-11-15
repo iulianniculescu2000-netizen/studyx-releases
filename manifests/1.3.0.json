@@ -1,0 +1,20 @@
+{
+  "version": "1.3.0",
+  "latestVersion": "1.3.0",
+  "releaseDate": "2026-11-15",
+  "changes": [
+    "GitHub Copilot ca AI principal: te conectezi din Setări AI cu un cod, fără terminal, alegi contul și vezi cota; când Copilot lipsește sau cota se termină, cheile API preiau tot",
+    "Explicațiile la grile citează cartea și pagina, deschid pasajul și rămân salvate pe grilă",
+    "Verificare pe al doilea model, cu semnalarea cifrelor care nu apar în pasajul citat",
+    "Căutare în cărți după vorbe de zi cu zi",
+    "Rezidențiat: plan pe grilă, verificator orb, simulare cu ponderi pe specialități, text din figuri și casete în cărți",
+    "Finisaje în chat și în Setări AI, plus protecție mai bună a legăturii dintre aplicație și fereastră"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.3.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.3.0/StudyX-Setup-1.3.0.exe",
+    "sha256": "834437fea8b227fa96ef396502e9e350a9f1bb0cb75eff9cdf16a46d85520528",
+    "size": 392103805
+  }
+}
