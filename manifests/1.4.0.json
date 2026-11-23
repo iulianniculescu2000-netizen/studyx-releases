@@ -1,0 +1,18 @@
+{
+  "version": "1.4.0",
+  "latestVersion": "1.4.0",
+  "releaseDate": "2026-11-23",
+  "changes": [
+    "Scroll mult mai fluid pe Panou, Grile și Statistici cu toate efectele păstrate",
+    "Deblocare automată a animațiilor și a aspectului complet după porniri întrerupte",
+    "Consum redus de procesor și GPU în repaus (Pip pe straturi, sticlă ușoară în Luminos, ceasuri oprite la minimizare)",
+    "Finisaje în bara laterală, comutatorul de temă și închidere automată a tururilor la schimbarea paginii"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.4.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.4.0/StudyX-Setup-1.4.0.exe",
+    "sha256": "d18af2b2ff97f643c2ea0c6723881a30e491c18c17fb279076597dacd3de4729",
+    "size": 250524470
+  }
+}
