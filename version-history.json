@@ -23,6 +23,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.3.0.json",
       "releaseDate": "2026-11-15",
       "description": "GitHub Copilot ca AI principal: te conectezi din Setări AI cu un cod, fără terminal, alegi contul și vezi cota; când Copilot lipsește sau cota se termină, cheile API preiau tot · Explicațiile la grile citează cartea și pagina, deschid pasajul și rămân salvate pe grilă · Verificare pe al doilea model, cu semnalarea cifrelor care nu apar în pasajul citat · Căutare în cărți după vorbe de zi cu zi · Rezidențiat: plan pe grilă, verificator orb, simulare cu ponderi pe specialități, text din figuri și casete în cărți · Finisaje în chat și în Setări AI, plus protecție mai bună a legăturii dintre aplicație și fereastră"
+    },
+    {
+      "version": "1.4.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.4.0.json",
+      "releaseDate": "2026-11-23",
+      "description": "Scroll mult mai fluid pe Panou, Grile și Statistici cu toate efectele păstrate · Deblocare automată a animațiilor și a aspectului complet după porniri întrerupte · Consum redus de procesor și GPU în repaus (Pip pe straturi, sticlă ușoară în Luminos, ceasuri oprite la minimizare) · Finisaje în bara laterală, comutatorul de temă și închidere automată a tururilor la schimbarea paginii"
     }
   ]
 }
