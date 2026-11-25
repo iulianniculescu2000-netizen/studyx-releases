@@ -29,6 +29,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.4.0.json",
       "releaseDate": "2026-11-23",
       "description": "Scroll mult mai fluid pe Panou, Grile și Statistici cu toate efectele păstrate · Deblocare automată a animațiilor și a aspectului complet după porniri întrerupte · Consum redus de procesor și GPU în repaus (Pip pe straturi, sticlă ușoară în Luminos, ceasuri oprite la minimizare) · Finisaje în bara laterală, comutatorul de temă și închidere automată a tururilor la schimbarea paginii"
+    },
+    {
+      "version": "1.4.1",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.4.1.json",
+      "releaseDate": "2026-11-25",
+      "description": "Performanță Electron GPU pe Windows (zero-copy + gpu-rasterization) · Rezidențiat și Flashcarduri Rezidențiat aliniate cu modelul de pe mobil (Kumar & Lawrence) · Sistem modular de animații 120Hz (src/motion) · Curățenie UI și cod (0 avertismente ESLint)"
     }
   ]
 }
