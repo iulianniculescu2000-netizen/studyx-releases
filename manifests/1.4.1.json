@@ -1,0 +1,18 @@
+{
+  "version": "1.4.1",
+  "latestVersion": "1.4.1",
+  "releaseDate": "2026-11-25",
+  "changes": [
+    "Performanță Electron GPU pe Windows (zero-copy + gpu-rasterization)",
+    "Rezidențiat și Flashcarduri Rezidențiat aliniate cu modelul de pe mobil (Kumar & Lawrence)",
+    "Sistem modular de animații 120Hz (src/motion)",
+    "Curățenie UI și cod (0 avertismente ESLint)"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.4.1.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.4.1/StudyX-Setup-1.4.1.exe",
+    "sha256": "18356cf7727611e8c3ff5d0726798fe80842257b35665e53776475316d234c74",
+    "size": 392278025
+  }
+}
