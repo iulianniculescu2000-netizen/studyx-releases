@@ -35,6 +35,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.4.1.json",
       "releaseDate": "2026-11-25",
       "description": "Performanță Electron GPU pe Windows (zero-copy + gpu-rasterization) · Rezidențiat și Flashcarduri Rezidențiat aliniate cu modelul de pe mobil (Kumar & Lawrence) · Sistem modular de animații 120Hz (src/motion) · Curățenie UI și cod (0 avertismente ESLint)"
+    },
+    {
+      "version": "1.4.2",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-releases/main/manifests/1.4.2.json",
+      "releaseDate": "2026-11-26",
+      "description": "Mișcare uniformă: carduri care se ridică, ferestre cu arc, bare de progres, toast și schelet de încărcare · Cifre care cresc pe Panou și pagini care intră cu alunecare scurtă · Rezidențiat fără mesajul despre grile duplicate · Tranziții, raze și curățenie după scoaterea paginii Organizare"
     }
   ]
 }
