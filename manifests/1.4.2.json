@@ -1,0 +1,18 @@
+{
+  "version": "1.4.2",
+  "latestVersion": "1.4.2",
+  "releaseDate": "2026-11-26",
+  "changes": [
+    "Mișcare uniformă: carduri care se ridică, ferestre cu arc, bare de progres, toast și schelet de încărcare",
+    "Cifre care cresc pe Panou și pagini care intră cu alunecare scurtă",
+    "Rezidențiat fără mesajul despre grile duplicate",
+    "Tranziții, raze și curățenie după scoaterea paginii Organizare"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.4.2.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-releases/releases/download/v1.4.2/StudyX-Setup-1.4.2.exe",
+    "sha256": "8975240e578fb6660ccb225489587904c40db9f449577f4010578a7cc73fd742",
+    "size": 392276186
+  }
+}
